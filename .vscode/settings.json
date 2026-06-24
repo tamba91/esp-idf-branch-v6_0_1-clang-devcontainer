@@ -1,6 +1,6 @@
 {
   "idf.currentSetup": "/home/esp32/esp/esp-idf",
-  "clangd.path": "/home/esp32/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clangd",
+  "clangd.path": "/home/esp32/.espressif/tools/esp-clang/latest/esp-clang/bin/clangd",
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",

@@ -3,7 +3,7 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=/workspaces/esp32-hello-clang/build"
+    "--compile-commands-dir=${workspaceFolder}/build"
   ],
   "idf.currentSetup": "/home/esp32/esp/esp-idf",
   "idf.openOcdConfigs": [
